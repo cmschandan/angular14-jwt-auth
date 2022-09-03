@@ -1,0 +1,13 @@
+
+
+#profile-img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.card-container{
+    width: 50%;
+    margin-top: 30px;
+    left: 30%;
+    position: relative;
+}
